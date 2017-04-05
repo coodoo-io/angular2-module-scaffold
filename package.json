@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://marcel-ploch@bitbucket.org/coodoo-gmbh/coo-pop-up-box.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/coodoo-gmbh/coo-pop-up-box#readme",
+  "homepage": "",
   "devDependencies": {
     "@angular/cli": "1.0.0",
     "@angular/common": "^4.0.0",
@@ -70,10 +70,7 @@
     "webpack-rxjs-externals": "^1.0.0",
     "zone.js": "^0.8.4"
   },
-  "dependencies": {
-    "@ng-bootstrap/ng-bootstrap": "git+https://coodoo-gmbh:Tq238PXquaLuOMwOPSQ7HlU5MVIiCez4@bitbucket.org/coodoo-gmbh/bootstrap-alpha16-patch.git#develop",
-    "bootstrap": "4.0.0-alpha.5"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "@angular/core": "4.0.0",
     "@angular/common": "4.0.0"
