@@ -25,7 +25,6 @@
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4",
     "intl": "^1.2.5",
-    "@ng-bootstrap/ng-bootstrap": "git+https://coodoo-gmbh:Tq238PXquaLuOMwOPSQ7HlU5MVIiCez4@bitbucket.org/coodoo-gmbh/bootstrap-alpha16-patch.git#develop"
   },
   "devDependencies": {
     "@angular/cli": "1.0.0",
